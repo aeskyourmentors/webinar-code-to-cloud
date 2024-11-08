@@ -18,7 +18,7 @@ function App() {
           count is {count}
         </button>
       </div>
-      {/* <div className="connect-section">
+      <div className="connect-section">
         <p>Get connected with us on LinkedIn!</p>
         <a href="https://www.linkedin.com/in/nasirnjs/" target="_blank" rel="noopener noreferrer" className="linkedin-link">
         Md. Nasir Uddin
@@ -27,7 +27,7 @@ function App() {
         <a href="https://www.linkedin.com/in/mohammad-akif2000/" target="_blank" rel="noopener noreferrer" className="linkedin-link">
           Mohammad Akif
         </a>
-      </div> */}
+      </div>
     </>
   )
 }
